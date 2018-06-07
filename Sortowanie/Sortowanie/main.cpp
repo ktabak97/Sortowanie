@@ -155,14 +155,14 @@ int main()
 	{
 		cout << endl;
 		cout << "Czego pragniesz?" << endl;
-		cout << "1. Wyswietl" << endl;
+		cout << "1. Wyswietlic" << endl;
 		cout << "2. Posortowac przez wstawianie" << endl;
 		cout << "3. Posortowac przez wybor" << endl;
 		cout << "4. Posortowac babelkowo" << endl;
 		cout << "5. Posortowac algorytmem Shella" << endl;
 		cout << "6. Posortowac przez Quicksort" << endl;
 		cout << "7. Posortowac przez Heapsort" << endl;
-		cout << "8. Koniec" << endl;
+		cout << "8. Zakonczyc" << endl;
 
 		ifstream plik("data.txt");
 		int liczba;
